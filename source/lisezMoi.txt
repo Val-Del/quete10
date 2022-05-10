@@ -1,0 +1,48 @@
+Quête 10: 
+
+Créer un dossier de travail (quête 10)
+Regarde les images ci-jointes
+
+Le code est libre MAIS POO uniquement 
+Tout dois être fonctionnel
+champion = stagiaire
+
+Créer une bdd quete10: (image-jointe)
+    table 'championDwwm2'
+        id (int)
+        first_name (varchar)
+        last_name (varchar)
+        age (int)
+        size (float)
+        situation (varchar)
+
+Créer un header /menu avec 9 ancres: (images-jointes)
+
+    1 Create: création de la table 'championDwwm2'
+
+    2 Read: lis les valeurs de la table
+
+    3 Truncate: vide les valeurs de la table
+
+    4 Delete: supprime la table 'championDwwm2'
+
+    5 Create all: créer les valeurs:
+        valeurs = first_name,last_name,age,size,situation de tous les DWWM2 Dunkerque (image-jointe)
+
+    6 Read one: lis un champion (libre) 
+
+    7 Update one: ajoute 1ans à un champion (libre)
+
+    8 Delete one: supprime un champion (libre)
+
+    9 List by age: trie dans l'ordre croissant les champions
+
+
+Tu seras peut-être amener à hydrater un objet, qui sait..
+Hydrater sert à assigner des données aux attributs de ta classe:
+https://www.easy-micro.org/hydratation.php&id=1107
+
+
+Ajoute un avatar sous ton header =)
+N'oublie pas ton footer/copyright
+Quand tu as finis, push ton dossier de travail et ajoute moi en collaborateur sur github
